@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VhoDataManager", "VhoDataManager\VhoDataManager.csproj", "{3308AF72-9E29-4562-8B43-FC289BF9A50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3308AF72-9E29-4562-8B43-FC289BF9A50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3308AF72-9E29-4562-8B43-FC289BF9A50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3308AF72-9E29-4562-8B43-FC289BF9A50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3308AF72-9E29-4562-8B43-FC289BF9A50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD2B376-2B17-4550-810D-9D1A49102613}
+	EndGlobalSection
+EndGlobal
